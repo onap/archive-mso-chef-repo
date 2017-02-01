@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit.openecomp.org
+port=29418
+project=mso/chef-repo.git
+

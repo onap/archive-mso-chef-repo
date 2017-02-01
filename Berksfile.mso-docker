@@ -1,0 +1,9 @@
+source "https://supermarket.chef.io"
+metadata
+
+
+###########################
+# APP
+#######
+#ST_MSOCHEF
+cookbook "mso-config", git: "ssh://git@10.208.194.49/mso/mso-config.git", branch: "master"
